@@ -1,0 +1,17 @@
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\SimpleWebScraper.Test.Unit.dll
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\SimpleWebScraper.Test.Unit.pdb
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\SimpleWebScraper.exe
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\SimpleWebScraper.pdb
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\SimpleWebScraper.exe.config
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.csprojAssemblyReference.cache
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.csproj.CopyComplete
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.dll
+C:\Users\gr\source\repos\SimpleWebScraper\SimpleWebScraper.Test.Unit\obj\Debug\SimpleWebScraper.Test.Unit.pdb
